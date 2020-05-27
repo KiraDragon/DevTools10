@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\bin\Debug\netcoreapp2.1\SnakeTest.deps.json
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\bin\Debug\netcoreapp2.1\SnakeTest.dll
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\bin\Debug\netcoreapp2.1\SnakeTest.pdb
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.AssemblyInfo.cs
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.dll
+C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.pdb

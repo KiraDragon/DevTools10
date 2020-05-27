@@ -10,7 +10,7 @@ namespace Snake
 {
 
     //Creates a data structure position that is made out of a row and a column. 
-    struct Position
+    public struct Position
     {
         public int row;
         public int col;

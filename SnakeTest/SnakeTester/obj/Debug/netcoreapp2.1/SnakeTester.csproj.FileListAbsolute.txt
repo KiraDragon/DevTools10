@@ -33,3 +33,20 @@ C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcor
 C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTest.pdb
 C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.csproj.CopyComplete
 C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.genruntimeconfig.cache
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTester.deps.json
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTester.runtimeconfig.json
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTester.runtimeconfig.dev.json
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTester.dll
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTester.pdb
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTest.dll
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\bin\Debug\netcoreapp2.1\SnakeTest.pdb
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.csprojAssemblyReference.cache
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.csproj.CoreCompileInputs.cache
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.AssemblyInfoInputs.cache
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.AssemblyInfo.cs
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.csproj.CopyComplete
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.dll
+C:\Users\Karyn Chong HX\Documents\DevTools10\SnakeTest\SnakeTester\obj\Debug\netcoreapp2.1\SnakeTester.pdb

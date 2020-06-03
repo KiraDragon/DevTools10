@@ -688,19 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Karyn Chong HX\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DevTools10\\SnakeTest\\SnakeTest\\SnakeTest.csproj",
+      "projectUniqueName": "C:\\Users\\Karyn Chong HX\\Documents\\DevTools10\\SnakeTest\\SnakeTest\\SnakeTest.csproj",
       "projectName": "SnakeTest",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DevTools10\\SnakeTest\\SnakeTest\\SnakeTest.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DevTools10\\SnakeTest\\SnakeTest\\obj\\",
+      "projectPath": "C:\\Users\\Karyn Chong HX\\Documents\\DevTools10\\SnakeTest\\SnakeTest\\SnakeTest.csproj",
+      "packagesPath": "C:\\Users\\Karyn Chong HX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Karyn Chong HX\\Documents\\DevTools10\\SnakeTest\\SnakeTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Karyn Chong HX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -732,16 +736,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015095\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

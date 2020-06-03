@@ -36,5 +36,16 @@ namespace SnakeTester
             string t1 = test.SaveScore("User1", 150);
             Assert.AreEqual("User1: 150 points", t1);
         }
+
+        [TestMethod]
+        public void testMakeObstacles()
+        {
+            Tester test = new Tester();
+            Random rng = new Random();
+
+            List<Position> testObs = test.MakeObstacles(rng);
+            Assert.AreEqual(5, testObs.Count);
+
+        }
     }
 }

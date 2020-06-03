@@ -7,3 +7,12 @@ C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTes
 C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.AssemblyInfo.cs
 C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.dll
 C:\Users\admin\source\repos\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.pdb
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\bin\Debug\netcoreapp2.1\SnakeTest.deps.json
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\bin\Debug\netcoreapp2.1\SnakeTest.dll
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\bin\Debug\netcoreapp2.1\SnakeTest.pdb
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.dll
+C:\Users\User\Documents\GitHub\DevTools10\SnakeTest\SnakeTest\obj\Debug\netcoreapp2.1\SnakeTest.pdb
